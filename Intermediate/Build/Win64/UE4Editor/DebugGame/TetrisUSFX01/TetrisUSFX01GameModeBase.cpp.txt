@@ -1,0 +1,46 @@
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\Block.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\PiezaBasica.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\functional
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xutility
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\Interface_piezas.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Interface_piezas.generated.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\vector
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PiezaBasica.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\Piece.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Piece.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\TetrisUSFX01GameModeBase.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\Board.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\Escenario.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\EstadoEscenario.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\EstadoEscenario.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Escenario.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Board.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h

@@ -1,0 +1,37 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TetrisUSFX01-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Block.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Board.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaBronze.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaDiamante.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaDorada.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaPlata.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezas.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\DirectorPiezas.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Interface_piezas.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Piece.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\PiezaBasica.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01GameModeBase.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Block.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Board.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaBronze.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaDiamante.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaDorada.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezaPlata.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\BuilderPiezas.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\DirectorPiezas.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Interface_piezas.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Piece.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\PiezaBasica.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01.init.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01GameModeBase.gen.cpp.obj"
+"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Default.rc2.res"
+/OUT:"D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\UE4Editor-TetrisUSFX01-Win64-DebugGame.lib"

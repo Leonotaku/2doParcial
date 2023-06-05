@@ -1,0 +1,5 @@
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\DirectorPiezas.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01\BuilderPiezas.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BuilderPiezas.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\DirectorPiezas.generated.h

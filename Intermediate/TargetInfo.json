@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TetrisUSFX01",
+			"Path": "D:\\universidad\\3 semestre\\sis357 Prog.Avanzada\\2do parcial\\resultado+\\TetrisUSFX01-master\\Source\\TetrisUSFX01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TetrisUSFX01Editor",
+			"Path": "D:\\universidad\\3 semestre\\sis357 Prog.Avanzada\\2do parcial\\resultado+\\TetrisUSFX01-master\\Source\\TetrisUSFX01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

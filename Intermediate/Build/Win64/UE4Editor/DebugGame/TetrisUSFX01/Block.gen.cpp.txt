@@ -1,0 +1,9 @@
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Source\TetrisUSFX01/Block.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\universidad\3 semestre\sis357 Prog.Avanzada\2do parcial\resultado+\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
